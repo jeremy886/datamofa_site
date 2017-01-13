@@ -7,11 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.datamofa.club/</loc>
-  <lastmod>2017-01-13T07:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/2012/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <lastmod>2017-01-13T07:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/2017/</loc>
@@ -19,43 +15,11 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2017-01-13T07:06:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/authors/</loc>
-  <lastmod>2017-01-13T07:23:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/authors/jeremy-chen/</loc>
-  <lastmod>2017-01-13T07:23:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/authors/roberto-alsina/</loc>
-  <lastmod>2017-01-13T07:23:00Z</lastmod>
+  <lastmod>2017-01-13T07:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/categories/blog/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/categories/cat_nikola/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/categories/demo/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/categories/nikola/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/categories/python/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <lastmod>2017-01-13T07:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/galleries/</loc>
@@ -75,7 +39,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/listings/hello.py.html</loc>
-  <lastmod>2017-01-13T07:06:00Z</lastmod>
+  <lastmod>2017-01-13T07:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/pages/about-nikola/</loc>
@@ -144,9 +108,5 @@
  <url>
   <loc>http://www.datamofa.club/posts/start-an-adventure-into-data-science-in-2017/</loc>
   <lastmod>2017-01-13T06:53:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/welcome-to-nikola/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
  </url>
 </urlset>
