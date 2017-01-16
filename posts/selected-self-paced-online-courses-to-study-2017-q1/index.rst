@@ -21,7 +21,8 @@ https://www.safaribooksonline.com/library/view/working-with-algorithms/978149190
 
 Data Visualization
 
-https://www.safaribooksonline.com/library/view/python-data-visualization/9781787122802
+Video https://www.safaribooksonline.com/library/view/python-data-visualization/9781787122802
+
 Book https://www.safaribooksonline.com/library/view/python-data-visualization/9781784396695/
 
 Natural Language Processing
@@ -33,6 +34,7 @@ Websites
 ------------------------------
 
 http://django.readthedocs.io/en/latest/intro/tutorial01.html
+
 https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business
 
 SQL
