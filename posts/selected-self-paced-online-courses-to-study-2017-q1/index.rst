@@ -10,7 +10,7 @@
 Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.
 
 Python Programming Skills
--------------------------
+------------------------------
 
 https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html
 
@@ -20,6 +20,7 @@ Algorithms
 https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html
 
 Data Visualization
+------------------------------
 
 Video https://www.safaribooksonline.com/library/view/python-data-visualization/9781787122802
 
