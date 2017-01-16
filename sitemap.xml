@@ -15,11 +15,19 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2017-01-13T07:33:00Z</lastmod>
+  <lastmod>2017-01-16T03:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
-  <lastmod>2017-01-13T07:33:00Z</lastmod>
+  <lastmod>2017-01-16T03:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/categories/2017q1/</loc>
+  <lastmod>2017-01-16T03:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/categories/courses/</loc>
+  <lastmod>2017-01-16T03:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/galleries/</loc>
@@ -100,6 +108,10 @@
  <url>
   <loc>http://www.datamofa.club/pages/theming/</loc>
   <lastmod>2017-01-13T06:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</loc>
+  <lastmod>2017-01-16T03:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/posts/start-a-new-adventure-into-data-science-in-2017/</loc>

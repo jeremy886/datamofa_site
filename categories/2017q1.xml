@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Mofa - Magic in Data (2017Q1)</title><link>http://www.datamofa.club/</link><description></description><atom:link href="http://www.datamofa.club/categories/2017q1.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 16 Jan 2017 03:20:34 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
+&lt;p&gt;Python Programming Skills:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html
+&lt;/pre&gt;
+&lt;p&gt;Algorithms:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html
+&lt;/pre&gt;
+&lt;p&gt;Data Visualization:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Video https://www.safaribooksonline.com/library/view/python-data-visualization/9781787122802
+Book https://www.safaribooksonline.com/library/view/python-data-visualization/9781784396695/
+&lt;/pre&gt;
+&lt;p&gt;Natural Language Processing:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html
+&lt;/pre&gt;
+&lt;p&gt;Websites:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+http://django.readthedocs.io/en/latest/intro/tutorial01.html
+https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business
+&lt;/pre&gt;
+&lt;p&gt;SQL:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+https://www.safaribooksonline.com/library/view/essential-sqlalchemy-2nd/9781491916544/
+&lt;/pre&gt;
+&lt;p&gt;Coursera:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+I'm waiting for this course to start: `Applied Plotting, Charting &amp;amp; Data Representation in Python &amp;lt;https://www.coursera.org/learn/python-plotting&amp;gt;`_
+&lt;/pre&gt;
+&lt;p&gt;Topics of Interest:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+`Creative Coding (using Processing.py) &amp;lt;https://www.futurelearn.com/courses/creative-coding/&amp;gt;`_
+
+Micropython for IoT (ESP8826)
+&lt;/pre&gt;&lt;/div&gt;</description><category>2017Q1</category><category>courses</category><guid>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</guid><pubDate>Mon, 16 Jan 2017 02:53:54 GMT</pubDate></item></channel></rss>
