@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Mofa - Magic in Data (courses)</title><link>http://www.datamofa.club/</link><description></description><atom:link href="http://www.datamofa.club/categories/courses.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 16 Jan 2017 03:37:57 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Mofa - Magic in Data (courses)</title><link>http://www.datamofa.club/</link><description></description><atom:link href="http://www.datamofa.club/categories/courses.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Tue, 17 Jan 2017 03:24:33 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
 &lt;div class="section" id="python-programming-skills"&gt;
 &lt;h2&gt;Python Programming Skills&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html"&gt;https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html"&gt;Intermediate Python Programming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/python-in-a/9781491913833/"&gt;Python in a nutshell, 3rd edition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/python-programming-language/9780134217314/"&gt;David Beazley's Python Programming Language&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python Cookbook&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/"&gt;https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/"&gt;https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class="section" id="algorithms"&gt;
 &lt;h2&gt;Algorithms&lt;/h2&gt;
@@ -34,4 +43,6 @@
 &lt;h2&gt;Topics of Interest&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.futurelearn.com/courses/creative-coding/"&gt;Creative Coding (using Processing.py)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Micropython for IoT (ESP8826)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part50.html"&gt;BokehIntro to data visualization with Bokeh - Part 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part51.html"&gt;BokehIntro to data visualization with Bokeh - Part 2&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>2017Q1</category><category>courses</category><guid>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</guid><pubDate>Mon, 16 Jan 2017 02:53:54 GMT</pubDate></item></channel></rss>

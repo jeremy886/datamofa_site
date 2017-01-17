@@ -12,7 +12,16 @@ Here are my choices of courses to study in 2017 Q1 to advance my career in Data 
 Python Programming Skills
 ------------------------------
 
-https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html
+`Intermediate Python Programming <https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html>`_
+
+`Python in a nutshell, 3rd edition <https://www.safaribooksonline.com/library/view/python-in-a/9781491913833/>`_
+
+`David Beazley's Python Programming Language <https://www.safaribooksonline.com/library/view/python-programming-language/9780134217314/>`_
+
+Python Cookbook
+
+ * https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/
+ * https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/
 
 Algorithms
 ----------
@@ -54,3 +63,11 @@ Topics of Interest
 `Creative Coding (using Processing.py) <https://www.futurelearn.com/courses/creative-coding/>`_
 
 Micropython for IoT (ESP8826)
+
+`BokehIntro to data visualization with Bokeh - Part 1`_
+
+`BokehIntro to data visualization with Bokeh - Part 2`_
+
+.. _BokehIntro to data visualization with Bokeh - Part 1: https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part50.html
+
+.. _BokehIntro to data visualization with Bokeh - Part 2: https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part51.html
