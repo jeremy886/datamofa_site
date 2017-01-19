@@ -9,7 +9,7 @@
 <meta content="#5670d4" name="theme-color">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 <link rel="canonical" href="http://www.datamofa.club/">
-<!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]--><link rel="prefetch" href="posts/selected-self-paced-online-courses-to-study-2017-q1/" type="text/html">
+<!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]--><link rel="prefetch" href="posts/my-first-pytest-experience/" type="text/html">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -59,7 +59,125 @@
 
     
 <div class="postindex">
-    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/selected-self-paced-online-courses-to-study-2017-q1/" class="u-url">Selected self-paced online courses to study (2017 Q1)</a></h1>
+    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/my-first-pytest-experience/" class="u-url">My first pytest experience</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">
+                Jeremy Chen
+            </span></p>
+            <p class="dateline"><a href="posts/my-first-pytest-experience/" rel="bookmark"><time class="published dt-published" datetime="2017-01-19T12:52:13+11:00" title="2017-01-19 12:52">2017-01-19 12:52</time></a></p>
+                <p class="commentline">
+        
+    <a href="posts/my-first-pytest-experience/#disqus_thread" data-disqus-identifier="cache/posts/my-first-pytest-experience.html">Comments</a>
+
+
+        </p>
+</div>
+    </header><div class="e-content entry-content">
+    <div>
+<p>This is my first time with pytest. It was amazing simple (Of course, I ignored all difficult parts).</p>
+<script src="https://gist.github.com/95fe6097d06b5d3eef2f93c3dcff1b36.js"></script><noscript>
+<pre class="literal-block">
+__author__ = 'Jeremy Chen'
+
+
+def merge_sort(unsorted):
+
+    sorted_ = []
+    length = len(unsorted)
+    if length == 1:
+        sorted_ = unsorted
+
+    elif length == 2:
+        left = unsorted[:length//2]
+        right = unsorted[length//2:]
+
+        if left[0] &gt;= right[0]:
+            sorted_ = right + left
+        else:
+            sorted_ = left + right
+
+    elif length == 3:
+        left_sorted = merge_sort(unsorted[:length//2])
+        right_sorted = merge_sort(unsorted[length//2:])
+
+        if left_sorted[0] &lt;= right_sorted[0]:
+            sorted_.append(left_sorted[0])
+            sorted_.append(right_sorted[0])
+            sorted_.append(right_sorted[1])
+
+        elif left_sorted[0] &lt;= right_sorted[1]:
+            sorted_.append(right_sorted[0])
+            sorted_.append(left_sorted[0])
+            sorted_.append(right_sorted[1])
+        else:
+            sorted_.append(right_sorted[0])
+            sorted_.append(right_sorted[1])
+            sorted_.append(left_sorted[0])
+
+    elif length &gt;= 4:
+        left_sorted = merge_sort(unsorted[:length//2])
+        right_sorted = merge_sort(unsorted[length//2:])
+
+        l, r = 0, 0
+        for i in range(length):
+            if l == len(left_sorted):
+                sorted_.append(right_sorted[r])
+                r += 1
+            elif r == len(right_sorted):
+                sorted_.append(left_sorted[l])
+                l += 1
+            elif left_sorted[l] &lt; right_sorted[r]:
+                sorted_.append(left_sorted[l])
+                l += 1
+            else:
+                sorted_.append(right_sorted[r])
+                r += 1
+    return sorted_
+
+
+
+def test_one_num():
+    assert merge_sort([1]) == [1]
+
+def test_two_nums():
+    assert merge_sort([1, 2]) == [1, 2]
+    assert merge_sort([2, 1]) == [1, 2]
+    assert merge_sort([4, 3]) == [3, 4]
+
+def test_three_nums():
+    assert merge_sort([1, 2, 3]) == [1, 2, 3]
+    assert merge_sort([1, 3, 2]) == [1, 2, 3]
+    assert merge_sort([2, 1, 3]) == [1, 2, 3]
+    assert merge_sort([2, 3, 1]) == [1, 2, 3]
+    assert merge_sort([3, 1, 2]) == [1, 2, 3]
+    assert merge_sort([3, 2, 1]) == [1, 2, 3]
+
+
+def test_any_nums():
+    assert merge_sort([5, 4, 3, 2, 1]) == [1, 2, 3, 4, 5]
+    assert merge_sort([99, 34, 3, -19, -8, 7, 45]) == [-19, -8, 3, 7, 34, 45, 99]
+
+</pre>
+</noscript>
+</div>
+    </div>
+    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/my-first-pytest/" class="u-url">My first pytest</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">
+                Jeremy Chen
+            </span></p>
+            <p class="dateline"><a href="posts/my-first-pytest/" rel="bookmark"><time class="published dt-published" datetime="2017-01-19T12:51:47+11:00" title="2017-01-19 12:51">2017-01-19 12:51</time></a></p>
+                <p class="commentline">
+        
+    <a href="posts/my-first-pytest/#disqus_thread" data-disqus-identifier="cache/posts/my-first-pytest.html">Comments</a>
+
+
+        </p>
+</div>
+    </header><div class="e-content entry-content">
+    <p>Write your post here.</p>
+    </div>
+    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/selected-self-paced-online-courses-to-study-2017-q1/" class="u-url">Selected self-paced online courses to study (2017 Q1)</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn">
                 Jeremy Chen
@@ -81,16 +199,22 @@
 <p><a class="reference external" href="https://www.safaribooksonline.com/library/view/python-in-a/9781491913833/">Python in a nutshell, 3rd edition</a></p>
 <p><a class="reference external" href="https://www.safaribooksonline.com/library/view/python-programming-language/9780134217314/">David Beazley's Python Programming Language</a></p>
 <p>Python Cookbook</p>
-<blockquote>
 <ul class="simple">
 <li><a class="reference external" href="https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/">https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/</a></li>
 <li><a class="reference external" href="https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/">https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/</a></li>
 </ul>
-</blockquote>
+<p>Python Internal</p>
+<ul class="simple">
+<li><a class="reference external" href="https://youtu.be/HVUTjQzESeo">Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter</a></li>
+<li><a class="reference external" href="http://pgbovine.net/cpython-internals.htm">CPython internals: A ten-hour codewalk through the Python interpreter source code</a></li>
+</ul>
 </div>
-<div class="section" id="algorithms">
-<h2>Algorithms</h2>
-<p><a class="reference external" href="https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html">https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html</a></p>
+<div class="section" id="computer-science">
+<h2>Computer Science</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html">Algorithms with Python</a></li>
+<li><a class="reference external" href="https://www.safaribooksonline.com/library/view/designing-data-structures/9781491928622/">Data Structure</a></li>
+</ul>
 </div>
 <div class="section" id="data-visualization">
 <h2>Data Visualization</h2>
@@ -100,9 +224,11 @@
 <div class="section" id="natural-language-processing">
 <h2>Natural Language Processing</h2>
 <p><a class="reference external" href="http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html">http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html</a></p>
+<p>NLTK3 <a class="reference external" href="https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/">https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/</a></p>
 </div>
 <div class="section" id="websites">
 <h2>Websites</h2>
+<p>Realpython part 2</p>
 <p><a class="reference external" href="http://django.readthedocs.io/en/latest/intro/tutorial01.html">http://django.readthedocs.io/en/latest/intro/tutorial01.html</a></p>
 <p><a class="reference external" href="https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business">https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business</a></p>
 </div>
@@ -114,12 +240,27 @@
 <h2>Coursera</h2>
 <p>I'm waiting for this course to start: <a class="reference external" href="https://www.coursera.org/learn/python-plotting">Applied Plotting, Charting &amp; Data Representation in Python</a></p>
 </div>
+<div class="section" id="advanced-topics">
+<h2>Advanced Topics</h2>
+<p><a class="reference external" href="https://www.safaribooksonline.com/library/view/python-machine-learning/9781787128033/">Python Machine Learning Projects</a></p>
+</div>
 <div class="section" id="topics-of-interest">
 <h2>Topics of Interest</h2>
 <p><a class="reference external" href="https://www.futurelearn.com/courses/creative-coding/">Creative Coding (using Processing.py)</a></p>
 <p>Micropython for IoT (ESP8826)</p>
 <p><a class="reference external" href="https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part50.html">BokehIntro to data visualization with Bokeh - Part 1</a></p>
 <p><a class="reference external" href="https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part51.html">BokehIntro to data visualization with Bokeh - Part 2</a></p>
+</div>
+<div class="section" id="lines-or-less">
+<h2>500 Lines or Less</h2>
+<p><a class="reference external" href="http://aosabook.org/en/index.html">500 lines or less</a></p>
+<p>AsyncIO <a class="reference external" href="http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html">http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html</a></p>
+</div>
+<div class="section" id="more-courses">
+<h2>More Courses?</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://universe.openai.com/">https://universe.openai.com/</a></li>
+</ul>
 </div>
 </div>
     </div>

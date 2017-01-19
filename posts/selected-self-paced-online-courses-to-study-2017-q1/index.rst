@@ -20,13 +20,19 @@ Python Programming Skills
 
 Python Cookbook
 
- * https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/
- * https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/
+* https://www.safaribooksonline.com/library/view/making-classes-support/9781491965276/
+* https://www.safaribooksonline.com/library/view/implementing-stateful-objects/9781491965283/
 
-Algorithms
-----------
+Python Internal
 
-https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html
+* `Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter <https://youtu.be/HVUTjQzESeo>`_
+* `CPython internals: A ten-hour codewalk through the Python interpreter source code <http://pgbovine.net/cpython-internals.htm>`_
+  
+Computer Science
+------------------------------
+
+* `Algorithms with Python <https://www.safaribooksonline.com/library/view/working-with-algorithms/9781491907818/video182074.html>`_
+* `Data Structure <https://www.safaribooksonline.com/library/view/designing-data-structures/9781491928622/>`_
 
 Data Visualization
 ------------------------------
@@ -40,8 +46,12 @@ Natural Language Processing
 
 http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html
 
+NLTK3 https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/
+
 Websites
 ------------------------------
+
+Realpython part 2
 
 http://django.readthedocs.io/en/latest/intro/tutorial01.html
 
@@ -56,7 +66,13 @@ Coursera
 ------------------------------
 
 I'm waiting for this course to start: `Applied Plotting, Charting & Data Representation in Python <https://www.coursera.org/learn/python-plotting>`_
-  
+
+
+Advanced Topics
+------------------------------
+
+`Python Machine Learning Projects <https://www.safaribooksonline.com/library/view/python-machine-learning/9781787128033/>`_
+
 Topics of Interest
 ------------------------------
 
@@ -71,3 +87,16 @@ Micropython for IoT (ESP8826)
 .. _BokehIntro to data visualization with Bokeh - Part 1: https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part50.html
 
 .. _BokehIntro to data visualization with Bokeh - Part 2: https://www.safaribooksonline.com/library/view/strata-hadoop/9781491944608/part51.html
+
+
+500 Lines or Less
+-----------------
+
+`500 lines or less <http://aosabook.org/en/index.html>`_
+
+AsyncIO http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
+
+More Courses?
+-------------
+
+* https://universe.openai.com/
