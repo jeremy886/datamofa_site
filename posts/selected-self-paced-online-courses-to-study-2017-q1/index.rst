@@ -1,6 +1,6 @@
 .. title: Selected self-paced online courses to study (2017 Q1)
 .. slug: selected-self-paced-online-courses-to-study-2017-q1
-.. date: 2017-01-16 13:53:54 UTC+11:00
+.. date: 2017-01-30 13:53:54 UTC+11:00
 .. tags: courses,2017Q1
 .. category: 
 .. link: 
