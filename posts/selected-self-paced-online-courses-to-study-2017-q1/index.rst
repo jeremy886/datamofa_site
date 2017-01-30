@@ -44,7 +44,7 @@ Book https://www.safaribooksonline.com/library/view/python-data-visualization/97
 Natural Language Processing
 ------------------------------
 
-* `Natural Language Text Processing with Python <https://www.safaribooksonline.com/library/view/natural-language-text/9781491976487/>`
+* `Natural Language Text Processing with Python <https://www.safaribooksonline.com/library/view/natural-language-text/9781491976487/>`_
 * NLTK3 https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/
 
 Websites
