@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Mofa - Magic in Data (courses)</title><link>http://www.datamofa.club/</link><description></description><atom:link href="http://www.datamofa.club/categories/courses.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 19 Jan 2017 02:15:38 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Mofa - Magic in Data (courses)</title><link>http://www.datamofa.club/</link><description></description><atom:link href="http://www.datamofa.club/categories/courses.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 30 Jan 2017 12:11:59 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
 &lt;div class="section" id="python-programming-skills"&gt;
 &lt;h2&gt;Python Programming Skills&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html"&gt;Intermediate Python Programming&lt;/a&gt;&lt;/p&gt;
@@ -30,8 +30,10 @@
 &lt;/div&gt;
 &lt;div class="section" id="natural-language-processing"&gt;
 &lt;h2&gt;Natural Language Processing&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html"&gt;http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NLTK3 &lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/"&gt;https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/&lt;/a&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;cite&gt;Natural Language Text Processing with Python &amp;lt;https://www.safaribooksonline.com/library/view/natural-language-text/9781491976487/&amp;gt;&lt;/cite&gt;&lt;/li&gt;
+&lt;li&gt;NLTK3 &lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/"&gt;https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="websites"&gt;
 &lt;h2&gt;Websites&lt;/h2&gt;
@@ -61,7 +63,11 @@
 &lt;div class="section" id="lines-or-less"&gt;
 &lt;h2&gt;500 Lines or Less&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://aosabook.org/en/index.html"&gt;500 lines or less&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AsyncIO &lt;a class="reference external" href="http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html"&gt;http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AsyncIO&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html"&gt;reading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pgbovine.net/python-async-io-walkthrough.htm"&gt;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="more-courses"&gt;
 &lt;h2&gt;More Courses?&lt;/h2&gt;

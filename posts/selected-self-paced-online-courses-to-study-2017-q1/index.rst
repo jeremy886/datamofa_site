@@ -44,9 +44,8 @@ Book https://www.safaribooksonline.com/library/view/python-data-visualization/97
 Natural Language Processing
 ------------------------------
 
-http://www.infiniteskills.com/training/natural-language-text-processing-with-python.html
-
-NLTK3 https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/
+* `Natural Language Text Processing with Python <https://www.safaribooksonline.com/library/view/natural-language-text/9781491976487/>`
+* NLTK3 https://www.safaribooksonline.com/library/view/natural-language-processing/9781787285101/
 
 Websites
 ------------------------------
@@ -94,7 +93,11 @@ Micropython for IoT (ESP8826)
 
 `500 lines or less <http://aosabook.org/en/index.html>`_
 
-AsyncIO http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html
+AsyncIO
+
+* `reading <http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html>`_
+* `video <http://pgbovine.net/python-async-io-walkthrough.htm>`_
+
 
 More Courses?
 -------------
