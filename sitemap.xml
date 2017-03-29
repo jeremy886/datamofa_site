@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2017-01-19T02:18:00Z</lastmod>
+  <lastmod>2017-03-29T10:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/listings/hello.py.html</loc>
-  <lastmod>2017-01-13T07:33:00Z</lastmod>
+  <lastmod>2017-03-29T10:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/pages/about-nikola/</loc>
@@ -112,6 +112,10 @@
  <url>
   <loc>http://www.datamofa.club/posts/my-first-pytest-experience/</loc>
   <lastmod>2017-01-19T02:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</loc>
+  <lastmod>2017-03-29T10:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</loc>
