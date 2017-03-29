@@ -25,6 +25,12 @@ In this course, I find myself limited by my statistcal knowledge and I barely tr
 
 I find this interesting book on Safarionline, `Practical Statistics for Data Scientists <https://www.safaribooksonline.com/library/view/practical-statistics-for/9781491952955/>`_. It seems readable for my level but unfortunately, its code is in R. I plan to converse it and share here: https://github.com/jeremy886/learn-stats
 
+Recent hobbies
+--------------
+
+After watching Uncle Bob's Clean Code on Safarionline and Youtube talks and reading many of his blogs, I am tempted to fiddle with Clojure or even Java (I had an two-decade old SCJP certificate). But I don't think a full time high school teacher can handle too many new languages. I better concentrate on Python. But to satisfy my curious mind, I might try Hy wit `SICP <https://mitpress.mit.edu/sicp/>`_.
+
+
 An interesting Video
 --------------------
 
