@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " vocab="http://ogp.me/ns" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Research Project 1 for Data Visualization | Data Mofa - Magic in Data</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="http://www.datamofa.club/posts/research-project-1-for-data-visualization/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Jeremy Chen">
+<meta property="og:site_name" content="Data Mofa - Magic in Data">
+<meta property="og:title" content="Research Project 1 for Data Visualization">
+<meta property="og:url" content="http://www.datamofa.club/posts/research-project-1-for-data-visualization/">
+<meta property="og:description" content="Step 1: Selection of Data Set
+The data set is aggregated by the Australian Burea of Statistics from the 2016 census.
+
+Source
+Source of the data set: the Australian Bureau of Statistics website.
+If you">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2017-08-27T21:46:31+10:00">
+</head>
+<body>
+    
+
+    <header id="header" class="navbar"><div class="container">
+            
+    <div class="brand">
+
+        <div class="brand-text">
+            <a href="http://www.datamofa.club/" title="Data Mofa - Magic in Data" rel="home">
+                Data Mofa - Magic in Data
+            </a>
+        </div>
+
+        <a id="btn-toggle-nav" class="navbar-toggle">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+    </div>
+
+            
+    <nav class="navbar-collapse collapse"><ul class="nav">
+<li><a href="../../archive.html">Archive</a></li>
+                <li><a href="../../categories/">Tags</a></li>
+                <li><a href="../../rss.xml">RSS feed</a></li>
+    
+    
+    </ul></nav>
+</div>
+    </header><div class="header-padding"> </div>
+
+    
+    <div class="post-header">
+        <div class="container">
+            <div class="title">
+                Research Project 1 for Data Visualization
+            </div>
+        </div>
+    </div>
+
+    <div class="post-meta">
+      <div class="container">
+	<div class="meta clearfix">
+	  <div class="authordate">
+	    <time class="timeago" datetime="2017-08-27T21:46:31+10:00">2017/08/27</time>
+	    
+
+	    
+          |  
+        <a href="index.rst" id="sourcelink">Source</a>
+
+	  </div>
+	  <div class="post-tags">
+	  </div>
+	</div>
+      </div>
+    </div>
+    
+    
+    <div id="post-main" class="main">
+        <div class="container">
+        <div>
+<div class="section" id="step-1-selection-of-data-set">
+<h2>Step 1: Selection of Data Set</h2>
+<p>The data set is aggregated by the Australian Burea of Statistics from the 2016 census.</p>
+<div class="section" id="source">
+<h3>Source</h3>
+<p>Source of the data set: <a class="reference external" href="https://datapacks.censusdata.abs.gov.au/datapacks/">the Australian Bureau of Statistics website</a>.</p>
+<p>If you want to download the files: <a class="reference external" href="http://www.censusdata.abs.gov.au/CensusOutput/copsubdatapacks.nsf/All%20docs%20by%20catNo/2016_GCP_POA_for_Vic/%24File/2016_GCP_POA_for_Vic_short-header.zip?OpenElement&amp;key=ded92a6f-4e19-ead5-9518-f22966129223">Link</a></p>
+</div>
+</div>
+<div class="section" id="step-2-topic-of-interest">
+<h2>Step 2: Topic of Interest</h2>
+<p>Income, Gender and Residence</p>
+<ol class="arabic simple">
+<li>Is Australian weekly income associated with sex?</li>
+<li>Is Australian weekly income associated with the postal code?</li>
+</ol>
+</div>
+<div class="section" id="step-3-codebook">
+<h2>Step 3: Codebook</h2>
+<p>The Australian Bureau of Statistics (ABS) uses filename, sex and ages to differentiate data and this creates a unique way of storing data.</p>
+<p>After checking the meta files, I know income records are stored in these three files:</p>
+<ul class="simple">
+<li>2016Census_G17A_VIC_POA.csv</li>
+<li>2016Census_G17B_VIC_POA.csv</li>
+<li>2016Census_G17C_VIC_POA.csv</li>
+</ul>
+<div class="section" id="code">
+<h3>Code</h3>
+<div class="section" id="poa-code-2016-postal-areas-poa">
+<h4>POA_CODE_2016: Postal Areas (POA)</h4>
+<p>It is recorded like POA3000. 3000 is the postal code. All postal code in Victoria, Australia has 4 digits and starts with 3.</p>
+</div>
+<div class="section" id="income-per-sex-per-age">
+<h4>Income per Sex Per Age</h4>
+<p>Sex is denoated by:</p>
+<ul class="simple">
+<li>M for Male,</li>
+<li>F for Female,</li>
+<li>P for Persons (all sexes).</li>
+</ul>
+<p>Ages are grouped in:</p>
+<ul class="simple">
+<li>15-19: 15_19_yrs</li>
+<li>20-24: 20_24_yrs</li>
+<li>25-34: 25_34_yrs</li>
+<li>35-44: 35_44_yrs</li>
+<li>45-54: 45_54_yrs</li>
+<li>55-64: 55_64_yrs</li>
+<li>65-74: 65_74_yrs</li>
+<li>75-84: 75_84_yrs</li>
+<li>85 and over: 85_yrs_ovr or 85ov</li>
+<li>Total: Tot</li>
+</ul>
+<p>Weekly Income are denoated by:</p>
+<ul class="simple">
+<li>Negative/Nil income: Neg_Nil_income</li>
+<li>$1-$149: 1_149</li>
+<li>$150-$299: 150_299</li>
+<li>$300-$399: 300_399</li>
+<li>$400-$499: 400_499</li>
+<li>$500-$649: 500_649</li>
+<li>$650-$799: 650_799</li>
+<li>$800-$999: 800_999</li>
+<li>$1,000-$1,249: 1000_1249</li>
+<li>$1,250-$1,499: 1250_1499</li>
+<li>$1,500-$1,749: 1500_1749</li>
+<li>$1,750-$1,999: 1750_1999</li>
+<li>$2,000-$2,999: 2000_2999</li>
+<li>$3,000 or more: 3000_more</li>
+<li>Personal income not stated: PI_NS_ns</li>
+</ul>
+<p>Therefore:</p>
+<p>F_300_399_Tot represents:</p>
+<ul class="simple">
+<li>Female</li>
+<li>Weekly income between 300 and 399</li>
+<li>Across all age groups (total)</li>
+</ul>
+<p>P_PI_NS_ns_25_34_yrs:</p>
+<ul class="simple">
+<li>Persons (male, female or others)</li>
+<li>Personal Income not stated</li>
+<li>Age between 25 to 34</li>
+</ul>
+</div>
+</div>
+<div class="section" id="literature-review">
+<h3>Literature Review</h3>
+<p>Search by keywords: gender income inequality</p>
+<p>Data from the 1976 Australian census, which allow some assessment of how worker characteristics and the sex-typing of jobs affect the lower incomes of women, lead to the general conclusion that, while direct wage discrimination may have been virtually eliminated, occupational segregation by gender, discontinuous career patterns and part-time employment continue to depress the earnings of women.</p>
+<p>Citation:</p>
+<p><cite>F. L. Jones</cite>; Sources of Gender Inequality in Income: What the Australian Census Says, Social Forces, Volume 62, Issue 1, 1 September 1983, Pages 134–152, <a class="reference external" href="https://doi.org/10.1093/sf/62.1.134">https://doi.org/10.1093/sf/62.1.134</a></p>
+<p>Search by keywords: income residence OR income postal (zip) code</p>
+<p>For income and residence, probably because this type of data is collected directly so I cannot really find any paper talking about this. Most people probably treat the association of income and residence as common sense. I am interested in examining it by statistical measure.</p>
+</div>
+<div class="section" id="hypothesis">
+<h3>Hypothesis</h3>
+<ol class="arabic simple">
+<li>Australian Females earn significant less than males weekly.</li>
+<li>Australians' weekly is linked to where they live.</li>
+</ol>
+</div>
+</div>
+</div>
+            
+        
+        <div id="disqus_thread"></div>
+        <script>
+        var disqus_shortname ="datamofa",
+            disqus_url="http://www.datamofa.club/posts/research-project-1-for-data-visualization/",
+        disqus_title="Research Project 1 for Data Visualization",
+        disqus_identifier="cache/posts/research-project-1-for-data-visualization.html",
+        disqus_config = function () {
+            this.language = "en";
+        };
+        (function() {
+            var dsq = document.createElement('script'); dsq.async = true;
+            dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+</noscript>
+    <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+        
+    
+
+
+        </div>
+    </div>
+
+    
+    <footer><div class="container">
+            <div class="social">
+
+
+
+                <div class="social-entry">
+                    <a href="../../rss.xml" target="_blank">
+                        <i class="fa fa-rss"></i> 
+                    </a>
+                </div>
+            </div>
+                <div class="copyright">
+                    Contents © 2017         <a href="mailto:jeremy886@gmail.com">Jeremy Chen</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+                    
+                </div>
+           
+        </div>
+    </footer><script src="../../assets/js/all-nocdn.js" type="text/javascript"></script>
+</body>
+</html>
