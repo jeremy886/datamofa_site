@@ -126,8 +126,8 @@ For income and residence, probably because this type of data is collected direct
 Hypothesis
 ==========
 
-1. Australian Females earn significant less than males weekly.
-2. Australians' weekly is linked to where they live.
+1. Australian Females earn significant less weekly than their male counterparts.
+2. Australians' weekly income is linked to where they live.
 
 
 
