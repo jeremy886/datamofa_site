@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.datamofa.club/</loc>
-  <lastmod>2017-01-13T07:33:00Z</lastmod>
+  <lastmod>2018-02-03T09:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/2017/</loc>
   <lastmod>2017-01-13T06:53:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.datamofa.club/2018/</loc>
+  <lastmod>2018-02-03T09:21:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2017-08-27T11:49:00Z</lastmod>
+  <lastmod>2018-02-03T09:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
@@ -47,7 +51,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/listings/hello.py.html</loc>
-  <lastmod>2017-07-22T01:47:00Z</lastmod>
+  <lastmod>2018-02-03T09:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/pages/about-nikola/</loc>
@@ -108,6 +112,10 @@
  <url>
   <loc>http://www.datamofa.club/pages/theming/</loc>
   <lastmod>2017-01-13T06:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</loc>
+  <lastmod>2018-02-03T09:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/posts/my-first-pytest-experience/</loc>
