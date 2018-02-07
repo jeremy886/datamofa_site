@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2018-02-03T09:22:00Z</lastmod>
+  <lastmod>2018-02-07T05:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
@@ -116,6 +116,10 @@
  <url>
   <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</loc>
   <lastmod>2018-02-03T09:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</loc>
+  <lastmod>2018-02-07T05:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/posts/my-first-pytest-experience/</loc>
