@@ -18,6 +18,6 @@ In 4 weeks, I partially answered my question but it's not very satisfactory. Mor
 data visualization and statistics. 
 
 Here is my week 4 assignment done in Jupyter-notebook. **You need to click this link so you can follow along.**
-`Link to jupyter notebook <https://github.com/jeremy886/learn_datascience/blob/master/australia/week3_assignment.ipynb>`_.
+`Link to jupyter notebook <https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment.ipynb>`_.
 
 
