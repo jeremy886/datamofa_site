@@ -16,15 +16,15 @@ This is part of the assignments for Data Science Ethics.
 
 Cenrelink is an Australian government agency in charge of "deliver social security payments and services to Australians." Since 2016, the agency implemented a debt recovery system without human intervention to recovery so-called "over payment" using black-box algorithms. It was believed that before the system was in place, the agency issued about 20,000 interventions (debt recovery letters) a year but now the same interventions just a week. The government agency said one in five incidents were resolved without a debt being issued and critics said that this was evidence of 20 per cent error rate.
 
-Listening to this audio report [1][1] and reading stories on this website <<s2>>, the system sounds very flawed and unfair. People have identified miscalculation of the algorithms. From the stories available online, it appears the government puts the responsibilities of proofing accuracy and resolution of debt onto the vulnerable people and has an intention to maximise financial gains.
+Listening to this audio report [1][1] and reading stories on this website [2][2], the system sounds very flawed and unfair. People have identified miscalculation of the algorithms. From the stories available online, it appears the government puts the responsibilities of proofing accuracy and resolution of debt onto the vulnerable people and has an intention to maximise financial gains.
 
-Thanks to the Guardian news website, you can view news about this saga chronologically <<s3>>. ABC (Australian Broadcasting Corporation) also provides a big picture here of the incident <<s4>>.
+Thanks to the Guardian news website, you can view news about this saga chronologically [3][3]. ABC (Australian Broadcasting Corporation) also provides a big picture here of the incident [4][4].
 
 ## Data Science
 
 Social Impact::
 
-From the NotMyDebt website, there are about 650 stories and 4.3 million dollars of debt reported. It was also reported that tens of thousands of debts were wiped or reduced <<s5>>. This incident definitely has a big social impact and the question over validity and ethics is on solid ground.
+From the NotMyDebt website, there are about 650 stories and 4.3 million dollars of debt reported. It was also reported that tens of thousands of debts were wiped or reduced [5][5]. This incident definitely has a big social impact and the question over validity and ethics is on solid ground.
 
 Privacy and Validity::
 
@@ -40,7 +40,7 @@ First, do we expect the government to use our data to catch wrong -doings?  Some
 
 ### Own the outcomes
 
-If you follow the stories <<s3>>, it doesn't give an impression that the minister or the government is owning the outcomes at all. The minister believed the system works well but he can't be sure about many details and later remedies were made to prove that the system was not perfect. The biggest issue here is lack of transparency so we do really know that to what extent the government is right or the journalist is correct.
+If you follow the stories [3][3], it doesn't give an impression that the minister or the government is owning the outcomes at all. The minister believed the system works well but he can't be sure about many details and later remedies were made to prove that the system was not perfect. The biggest issue here is lack of transparency so we do really know that to what extent the government is right or the journalist is correct.
 
 For individual data scientists, it is very easy to weigh the human costs in their algorithms in hindsight but the mistake was made. Can you really uphold these two "simple" principles in your job when you are working at a big organisation like the government? Are there factors contributing to the difficulties of foreseeing the problems? 
 
