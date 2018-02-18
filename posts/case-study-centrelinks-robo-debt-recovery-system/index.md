@@ -22,15 +22,15 @@ Thanks to the Guardian news website, you can view news about this saga chronolog
 
 ## Data Science
 
-Social Impact::
+### Social Impact
 
 From the NotMyDebt website, there are about 650 stories and 4.3 million dollars of debt reported. It was also reported that tens of thousands of debts were wiped or reduced [5][5]. This incident definitely has a big social impact and the question over validity and ethics is on solid ground.
 
-Privacy and Validity::
+### Privacy and Validity
 
 We tend to believe the government will do the right thing so we often surrender our privacy and entrust all our personal data to it. We also expect the government will make sure its decisions are reasonable and right before carrying it out. Unfortunately it seems not the case here.
 
-Code of Ethics::
+### Code of Ethics
 
 Hidden behind the heavy door of the government bureau, a person or a group of them have implemented some kinds of Data Science techniques. Can we examine if the proposed two rules of Jagadish's Code of Ethics here apply to both the agency and the data scientist?
 
