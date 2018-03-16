@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.datamofa.club/</loc>
-  <lastmod>2018-02-03T09:21:00Z</lastmod>
+  <lastmod>2018-03-16T06:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/2017/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2018-02-18T07:16:00Z</lastmod>
+  <lastmod>2018-03-16T06:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
@@ -40,6 +40,10 @@
  <url>
   <loc>http://www.datamofa.club/galleries/demo/</loc>
   <lastmod>2017-01-13T06:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/index-1.html</loc>
+  <lastmod>2018-03-16T06:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/listings/</loc>
@@ -116,6 +120,10 @@
  <url>
   <loc>http://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</loc>
   <lastmod>2018-02-18T07:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</loc>
+  <lastmod>2018-03-16T06:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</loc>
