@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2018-03-16T06:12:00Z</lastmod>
+  <lastmod>2018-03-22T08:35:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/categories/</loc>
@@ -43,7 +43,7 @@
  </url>
  <url>
   <loc>http://www.datamofa.club/index-1.html</loc>
-  <lastmod>2018-03-16T06:12:00Z</lastmod>
+  <lastmod>2018-03-22T08:35:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/listings/</loc>
@@ -124,6 +124,10 @@
  <url>
   <loc>http://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</loc>
   <lastmod>2018-03-16T06:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</loc>
+  <lastmod>2018-03-22T08:35:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</loc>
