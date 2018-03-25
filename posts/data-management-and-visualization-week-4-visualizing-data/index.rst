@@ -17,7 +17,13 @@ figure out all the details.
 In 4 weeks, I partially answered my question but it's not very satisfactory. More can be learnt in the area of
 data visualization and statistics. 
 
-Here is my week 4 assignment done in Jupyter-notebook. **You need to click this link so you can follow along.**
-`Link to jupyter notebook <https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment.ipynb>`_.
+I think I went binge visualization in this assignment and even got complaints about not being able to down the file
+(too big).
+
+Here is my new week 4 assignment done in Jupyter-notebook. **You need to click this link so you can follow along.**
+`Link to jupyter notebook <https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment_eazy.ipynb>`_.
+
+The old long version still `here 
+<https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment.ipynb>`_ if you are patient.
 
 
