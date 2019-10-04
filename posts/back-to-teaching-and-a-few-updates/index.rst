@@ -13,5 +13,5 @@ I guess I should use more of my data skills in teaching. For example, we may hav
 
 Anyway, my goal is to bring something new to this regional town in the middle of nowhere. I saw one university is offering a free loan for AR/AI kits if I complete their traning course. I probably will bite the bullet and do it.
 
-That's the updates. Until next time.
+That's the updates. Until next time...
 
