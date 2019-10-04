@@ -6,27 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.datamofa.club/categories/2017q1.xml</loc>
-  <lastmod>2017-07-22T01:46:00Z</lastmod>
+  <loc>https://www.datamofa.club/categories/2017q1.xml</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.datamofa.club/categories/courses.xml</loc>
-  <lastmod>2017-07-22T01:46:00Z</lastmod>
+  <loc>https://www.datamofa.club/categories/courses.xml</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.datamofa.club/galleries/demo/rss.xml</loc>
-  <lastmod>2018-02-03T09:22:00Z</lastmod>
+  <loc>https://www.datamofa.club/galleries/rss.xml</loc>
+  <lastmod>2019-10-04T11:34:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.datamofa.club/galleries/rss.xml</loc>
-  <lastmod>2018-02-03T09:22:00Z</lastmod>
+  <loc>https://www.datamofa.club/rss.xml</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.datamofa.club/rss.xml</loc>
-  <lastmod>2018-03-22T08:35:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://www.datamofa.club/sitemap.xml</loc>
-  <lastmod>2018-03-22T08:35:00Z</lastmod>
+  <loc>https://www.datamofa.club/sitemap.xml</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>

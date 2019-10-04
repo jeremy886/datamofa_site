@@ -6,163 +6,99 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://www.datamofa.club/</loc>
-  <lastmod>2018-03-16T06:12:00Z</lastmod>
+  <loc>https://www.datamofa.club/</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/2017/</loc>
-  <lastmod>2017-01-13T06:53:00Z</lastmod>
+  <loc>https://www.datamofa.club/2017/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/2018/</loc>
-  <lastmod>2018-02-03T09:21:00Z</lastmod>
+  <loc>https://www.datamofa.club/2018/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/archive.html</loc>
-  <lastmod>2018-03-22T08:35:00Z</lastmod>
+  <loc>https://www.datamofa.club/2019/</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/categories/</loc>
-  <lastmod>2017-01-16T03:20:00Z</lastmod>
+  <loc>https://www.datamofa.club/archive.html</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/categories/2017q1/</loc>
-  <lastmod>2017-01-16T03:20:00Z</lastmod>
+  <loc>https://www.datamofa.club/categories/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/categories/courses/</loc>
-  <lastmod>2017-01-16T03:20:00Z</lastmod>
+  <loc>https://www.datamofa.club/categories/2017q1/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/galleries/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/categories/courses/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/galleries/demo/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/galleries/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/index-1.html</loc>
-  <lastmod>2018-03-22T08:35:00Z</lastmod>
+  <loc>https://www.datamofa.club/index-1.html</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/listings/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/listings/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/listings/__pycache__/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/back-to-teaching-and-a-few-updates/</loc>
+  <lastmod>2019-10-04T11:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/listings/hello.py.html</loc>
-  <lastmod>2018-02-03T09:22:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/about-nikola/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/bootstrap-demo/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/charts/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/creating-a-theme/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/data-management-and-visualization-week-4-visualizing-data/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/extending/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/my-first-pytest-experience/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/handbook/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/internals/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/research-project-1-for-data-visualization/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/listings-demo/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/path-handlers/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/start-a-new-adventure-into-data-science-in-2017/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
  <url>
-  <loc>http://www.datamofa.club/pages/quickref/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/pages/quickstart/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/pages/slides-demo/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/pages/social_buttons/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/pages/theming/</loc>
-  <lastmod>2017-01-13T06:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</loc>
-  <lastmod>2018-02-18T07:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</loc>
-  <lastmod>2018-03-16T06:12:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</loc>
-  <lastmod>2018-03-22T08:35:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</loc>
-  <lastmod>2018-02-03T09:21:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</loc>
-  <lastmod>2018-02-07T05:46:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/data-management-and-visualization-week-4-visualizing-data/</loc>
-  <lastmod>2018-02-14T07:01:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/my-first-pytest-experience/</loc>
-  <lastmod>2017-01-19T02:15:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</loc>
-  <lastmod>2017-03-29T10:53:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/research-project-1-for-data-visualization/</loc>
-  <lastmod>2017-08-27T11:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</loc>
-  <lastmod>2017-01-16T03:20:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/start-a-new-adventure-into-data-science-in-2017/</loc>
-  <lastmod>2017-01-13T06:53:00Z</lastmod>
- </url>
- <url>
-  <loc>http://www.datamofa.club/posts/start-an-adventure-into-data-science-in-2017/</loc>
-  <lastmod>2017-01-13T06:53:00Z</lastmod>
+  <loc>https://www.datamofa.club/posts/start-an-adventure-into-data-science-in-2017/</loc>
+  <lastmod>2019-10-04T11:28:00Z</lastmod>
  </url>
 </urlset>

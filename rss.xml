@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Mofa - Magic in Data</title><link>http://www.datamofa.club/</link><description>Learning and Teaching Big Data</description><atom:link href="http://www.datamofa.club/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 25 Mar 2018 06:52:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Data Analysis Tools - Week2: Chi Square Test: Race and Dating</title><link>http://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here is the conclusion I discovered:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Learning and Teaching Big Data</title><link>https://www.datamofa.club/</link><description>Magic in Data</description><atom:link href="https://www.datamofa.club/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:datamofa@jeremychen.email"&gt;Jeremy Chen&lt;/a&gt; </copyright><lastBuildDate>Fri, 04 Oct 2019 11:48:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Back to teaching and a few updates</title><link>https://www.datamofa.club/posts/back-to-teaching-and-a-few-updates/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;I was not motivated enough to jump into the Data Science world and now back to teaching in a regional town for nearly 9 months (school holidays in-between). I am teaching Y11 General Maths and using the very basic Least Squares Regression Line.&lt;/p&gt;
+&lt;p&gt;I guess I should use more of my data skills in teaching. For example, we may have a new subject titled Data Analysis next year and I am considering taking a course, Introduction to Data Wise: A Collaborative Process to Improve Learning &amp;amp; Teaching, on Edx and then move into a different position.&lt;/p&gt;
+&lt;p&gt;Anyway, my goal is to bring something new to this regional town in the middle of nowhere. I saw one university is offering a free loan for AR/AI kits if I complete their traning course. I probably will bite the bullet and do it.&lt;/p&gt;
+&lt;p&gt;That's the updates. Until next time.&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/back-to-teaching-and-a-few-updates/</guid><pubDate>Fri, 04 Oct 2019 11:37:52 GMT</pubDate></item><item><title>Data Analysis Tools - Week2: Chi Square Test: Race and Dating</title><link>https://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here is the conclusion I discovered:&lt;/p&gt;
 &lt;p&gt;According to the post hoc test, we can only be confident that the "white vs black" and "black vs hispanic" race groups have a difference when dating outside one's own race.&lt;/p&gt;
 &lt;p&gt;Some race groups have very small samples so it may not meet the conditions of Chi Square Test.&lt;/p&gt;
-&lt;p&gt;Please follow this link to see the analysis: &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/statistics/data_analysis_tools/week2%20lab-Chi-Square%20Test%20of%20Independence.ipynb"&gt;Link to Jupyter Notebook.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</guid><pubDate>Thu, 22 Mar 2018 08:30:41 GMT</pubDate></item><item><title>Data Analysis Tools - Week 1: Hypothesis Testing and ANOVA</title><link>http://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here I will explore the association of Life Expectacy and Country Income Level.&lt;/p&gt;
+&lt;p&gt;Please follow this link to see the analysis: &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/statistics/data_analysis_tools/week2%20lab-Chi-Square%20Test%20of%20Independence.ipynb"&gt;Link to Jupyter Notebook.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/data-analysis-tools-week2-chi-square-test-race-and-dating/</guid><pubDate>Thu, 22 Mar 2018 08:30:41 GMT</pubDate></item><item><title>Data Analysis Tools - Week 1: Hypothesis Testing and ANOVA</title><link>https://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here I will explore the association of Life Expectacy and Country Income Level.&lt;/p&gt;
 &lt;p&gt;Please follow this link for my Jupyter-Notebook on github. &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/statistics/data_analysis_tools/week1-lab-Hypothesis%20Testing%20and%20ANOVA.ipynb"&gt;Link to Jupyter-Notebook&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thank you.&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</guid><pubDate>Fri, 16 Mar 2018 05:59:48 GMT</pubDate></item><item><title>Case Study: Centrelink’s robo debt recovery system</title><link>http://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;This is part of the assignments for Data Science Ethics.&lt;/p&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/data-analysis-tools-week-1-hypothesis-testing-and-anova/</guid><pubDate>Fri, 16 Mar 2018 05:59:48 GMT</pubDate></item><item><title>Case Study: Centrelink’s robo debt recovery system</title><link>https://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;This is part of the assignments for Data Science Ethics.&lt;/p&gt;
 &lt;h2&gt;Case Study: Centrelink's robo debt recovery system&lt;/h2&gt;
 &lt;h3&gt;Introduction:&lt;/h3&gt;
 &lt;p&gt;Cenrelink is an Australian government agency in charge of "deliver social security payments and services to Australians." Since 2016, the agency implemented a debt recovery system without human intervention to recovery so-called "over payment" using black-box algorithms. It was believed that before the system was in place, the agency issued about 20,000 interventions (debt recovery letters) a year but now the same interventions just a week. The government agency said one in five incidents were resolved without a debt being issued and critics said that this was evidence of 20 per cent error rate.&lt;/p&gt;
@@ -24,12 +27,12 @@
 &lt;p&gt;For individual data scientists, it is very easy to weigh the human costs in their algorithms in hindsight but the mistake was made. Can you really uphold these two "simple" principles in your job when you are working at a big organisation like the government? Are there factors contributing to the difficulties of foreseeing the problems? &lt;/p&gt;
 &lt;p&gt;I also think that without a professional board or committee, it would be a lot harder to point out the problem or "say no" to things against the principle.&lt;/p&gt;
 &lt;h3&gt;References:&lt;/h3&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;[1]: http://www.abc.net.au/radionational/programs/backgroundbriefing/2017-03-05/8319442 "Audio: How Centrelink's 'robodebt' ran off the rails"
-[2]: https://notmydebt.com.au/stories/notmydebt-stories "NotMyDebt Stories"
-[3]: https://www.theguardian.com/australia-news/centrelink-debt-recovery "Centrelink Debt Recovery"
-[4]: http://www.abc.net.au/news/2017-03-03/centrelink-debt-controversy-what-is-robodebt/8317764 "We're all talking about the Centrelink debt controversy, but what is 'robodebt' anyway?"
-[5]: https://www.theguardian.com/australia-news/2017/sep/13/centrelink-scandal-tens-of-thousands-of-welfare-debts-wiped-or-reduced "Centrelink scandal: tens of thousands of welfare debts wiped or reduced"
-&lt;/pre&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</guid><pubDate>Sun, 18 Feb 2018 07:07:49 GMT</pubDate></item><item><title>Data Management and Visualization - week 4: Visualizing Data</title><link>http://www.datamofa.club/posts/data-management-and-visualization-week-4-visualizing-data/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Finally, I have learnt a lot about seaborn and explore my data with the help of data visualization.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt; &lt;span class="n"&gt;http&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;abc&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;net&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;au&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;radionational&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;programs&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;backgroundbriefing&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2017&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;05&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8319442&lt;/span&gt; &lt;span class="ss"&gt;"Audio: How Centrelink's 'robodebt' ran off the rails"&lt;/span&gt;
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;notmydebt&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;au&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;stories&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;notmydebt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;stories&lt;/span&gt; &lt;span class="ss"&gt;"NotMyDebt Stories"&lt;/span&gt;
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;theguardian&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;australia&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;news&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;centrelink&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;debt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;recovery&lt;/span&gt; &lt;span class="ss"&gt;"Centrelink Debt Recovery"&lt;/span&gt;
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt; &lt;span class="n"&gt;http&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;abc&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;net&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;au&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;news&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2017&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;centrelink&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;debt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;controversy&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;what&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;is&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;robodebt&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8317764&lt;/span&gt; &lt;span class="ss"&gt;"We're all talking about the Centrelink debt controversy, but what is 'robodebt' anyway?"&lt;/span&gt;
+&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;theguardian&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;australia&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;news&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2017&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;sep&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;centrelink&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scandal&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;tens&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;of&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;thousands&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;of&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;welfare&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;debts&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;wiped&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;or&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;reduced&lt;/span&gt; &lt;span class="ss"&gt;"Centrelink scandal: tens of thousands of welfare debts wiped or reduced"&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/case-study-centrelinks-robo-debt-recovery-system/</guid><pubDate>Sun, 18 Feb 2018 07:07:49 GMT</pubDate></item><item><title>Data Management and Visualization - week 4: Visualizing Data</title><link>https://www.datamofa.club/posts/data-management-and-visualization-week-4-visualizing-data/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Finally, I have learnt a lot about seaborn and explore my data with the help of data visualization.&lt;/p&gt;
 &lt;p&gt;I tried several plots provided by seaborn. I liked its simplicity and power in data visualization and I used
 techniques taught in the lecture video but I feel it's not enough and I ended up spending a lot more time to
 figure out all the details.&lt;/p&gt;
@@ -39,7 +42,7 @@ data visualization and statistics.&lt;/p&gt;
 (too big).&lt;/p&gt;
 &lt;p&gt;Here is my new week 4 assignment done in Jupyter-notebook. &lt;strong&gt;You need to click this link so you can follow along.&lt;/strong&gt;
 &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment_eazy.ipynb"&gt;Link to jupyter notebook&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The old long version still &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment.ipynb"&gt;here&lt;/a&gt; if you are patient.&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/data-management-and-visualization-week-4-visualizing-data/</guid><pubDate>Wed, 14 Feb 2018 06:51:19 GMT</pubDate></item><item><title>Data Management and Visualization - week 3: Making Data Management Decisions</title><link>http://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here is my conclusion. More details are in my &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/australia/week3_assignment.ipynb"&gt;jupyter notebook&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The old long version still &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/australia/week4_assignment.ipynb"&gt;here&lt;/a&gt; if you are patient.&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/data-management-and-visualization-week-4-visualizing-data/</guid><pubDate>Wed, 14 Feb 2018 06:51:19 GMT</pubDate></item><item><title>Data Management and Visualization - week 3: Making Data Management Decisions</title><link>https://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here is my conclusion. More details are in my &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/australia/week3_assignment.ipynb"&gt;jupyter notebook&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Replacing missing values should make the data analysis more accurate and show a real picture.&lt;/p&gt;
 &lt;p&gt;Here are the missing data:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -60,14 +63,14 @@ data visualization and statistics.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;To further explore the influence of post code (location), I extract top and bottom 10 income post codes. Since it’s difficult to use the post code alone, I try to map the code to suburb names. In the process, I realise the mapping is not perfect but I try it anyway because it is far more easier to interpreter the data by name.&lt;/p&gt;
-&lt;p&gt;The analysis is not yet complete and I hope some data visualization techniques can help me discover more interesting areas I can use for further investigation next week.&lt;/p&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</guid><pubDate>Wed, 07 Feb 2018 05:41:53 GMT</pubDate></item><item><title>Data Management and Visualization - week 2: Running Your First Program</title><link>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here is my work.&lt;/p&gt;
+&lt;p&gt;The analysis is not yet complete and I hope some data visualization techniques can help me discover more interesting areas I can use for further investigation next week.&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/data-management-and-visualization-week-3-making-data-management-decisions/</guid><pubDate>Wed, 07 Feb 2018 05:41:53 GMT</pubDate></item><item><title>Data Management and Visualization - week 2: Running Your First Program</title><link>https://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here is my work.&lt;/p&gt;
 &lt;div class="section" id="thoughts"&gt;
 &lt;h2&gt;Thoughts&lt;/h2&gt;
 &lt;p&gt;I spent a lot of time creating workable data from the 2016 census files. I learnt a lot but it's also very time consuming.&lt;/p&gt;
 &lt;p&gt;I also chose to use Jupyter-notebook this time instead of Spyder. It's simply a lot easier to explore data and ideas in Jupyter. I will also present my assignment in Jupyter. You can read me comments and programs over there.&lt;/p&gt;
 &lt;p&gt;Assignment 2: &lt;a class="reference external" href="https://github.com/jeremy886/learn_datascience/blob/master/australia/week2_assignment.ipynb"&gt;Jupyter-notebook&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thank you for your time and feedback.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</guid><pubDate>Sat, 03 Feb 2018 09:11:00 GMT</pubDate></item><item><title>Research Project 1 for Data Visualization</title><link>http://www.datamofa.club/posts/research-project-1-for-data-visualization/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;div class="section" id="step-1-selection-of-data-set"&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/data-management-and-visualization-week-2-running-your-first-program/</guid><pubDate>Sat, 03 Feb 2018 09:11:00 GMT</pubDate></item><item><title>Research Project 1 for Data Visualization</title><link>https://www.datamofa.club/posts/research-project-1-for-data-visualization/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;div class="section" id="step-1-selection-of-data-set"&gt;
 &lt;h2&gt;Step 1: Selection of Data Set&lt;/h2&gt;
 &lt;p&gt;The data set is aggregated by the Australian Burea of Statistics from the 2016 census.&lt;/p&gt;
 &lt;div class="section" id="source"&gt;
@@ -169,7 +172,7 @@ data visualization and statistics.&lt;/p&gt;
 &lt;li&gt;Australians' weekly income is linked to where they live.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/research-project-1-for-data-visualization/</guid><pubDate>Sun, 27 Aug 2017 11:46:31 GMT</pubDate></item><item><title>My journey to Applied Data Science with Python and recent hobbies</title><link>http://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;div class="section" id="online-course"&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/research-project-1-for-data-visualization/</guid><pubDate>Sun, 27 Aug 2017 11:46:31 GMT</pubDate></item><item><title>My journey to Applied Data Science with Python and recent hobbies</title><link>https://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;div class="section" id="online-course"&gt;
 &lt;h2&gt;Online Course&lt;/h2&gt;
 &lt;p&gt;I'm doing Applied Data Science courses on Coursera. I finally paid my tuition after Coursera limited assessed participation to only paid users. After successfully completing the first course, I made the jump.&lt;/p&gt;
 &lt;p&gt;I was a bit more skillful in the second course. For a start, I passed it with a first try and I also know more ways to get help I need. I have a feeling it's not as "hard" as the first course - Introduction to Data Science in Python (mainly pandas). But it's a false perception. I did spend a lot of time getting my way around knowing stackoverflow, Dash and online documentations, Jupyter notebook and good books/videos on Safarionline.&lt;/p&gt;
@@ -189,8 +192,8 @@ data visualization and statistics.&lt;/p&gt;
 &lt;h2&gt;An interesting Video&lt;/h2&gt;
 &lt;p&gt;"The Programming Language Called Classical Chinese" by David Branner&lt;/p&gt;
 &lt;div class="youtube-video align-center"&gt;
-&lt;iframe width="425" height="344" src="https://www.youtube.com/embed/vBhg2p8aAQ0?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</guid><pubDate>Wed, 29 Mar 2017 10:25:11 GMT</pubDate></item><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vBhg2p8aAQ0?rel=0&amp;amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://www.datamofa.club/posts/my-journey-to-applied-data-science-with-python-and-recent-hobbies/</guid><pubDate>Wed, 29 Mar 2017 10:25:11 GMT</pubDate></item><item><title>Selected self-paced online courses to study (2017 Q1)</title><link>https://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;Here are my choices of courses to study in 2017 Q1 to advance my career in Data Science.&lt;/p&gt;
 &lt;div class="section" id="python-programming-skills"&gt;
 &lt;h2&gt;Python Programming Skills&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.safaribooksonline.com/library/view/intermediate-python-programming/9781491954935/video248760.html"&gt;Intermediate Python Programming&lt;/a&gt;&lt;/p&gt;
@@ -265,87 +268,4 @@ data visualization and statistics.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://universe.openai.com/"&gt;https://universe.openai.com/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>2017Q1</category><category>courses</category><guid>http://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</guid><pubDate>Mon, 30 Jan 2017 02:53:54 GMT</pubDate></item><item><title>My first pytest experience</title><link>http://www.datamofa.club/posts/my-first-pytest-experience/</link><dc:creator>Jeremy Chen</dc:creator><description>&lt;div&gt;&lt;p&gt;This is my first time with pytest. It was amazing simple (Of course, I ignored all difficult parts).&lt;/p&gt;
-&lt;script src="https://gist.github.com/95fe6097d06b5d3eef2f93c3dcff1b36.js"&gt;&lt;/script&gt;&lt;noscript&gt;&lt;pre class="literal-block"&gt;
-__author__ = 'Jeremy Chen'
-
-
-def merge_sort(unsorted):
-
-    sorted_ = []
-    length = len(unsorted)
-    if length == 1:
-        sorted_ = unsorted
-
-    elif length == 2:
-        left = unsorted[:length//2]
-        right = unsorted[length//2:]
-
-        if left[0] &amp;gt;= right[0]:
-            sorted_ = right + left
-        else:
-            sorted_ = left + right
-
-    elif length == 3:
-        left_sorted = merge_sort(unsorted[:length//2])
-        right_sorted = merge_sort(unsorted[length//2:])
-
-        if left_sorted[0] &amp;lt;= right_sorted[0]:
-            sorted_.append(left_sorted[0])
-            sorted_.append(right_sorted[0])
-            sorted_.append(right_sorted[1])
-
-        elif left_sorted[0] &amp;lt;= right_sorted[1]:
-            sorted_.append(right_sorted[0])
-            sorted_.append(left_sorted[0])
-            sorted_.append(right_sorted[1])
-        else:
-            sorted_.append(right_sorted[0])
-            sorted_.append(right_sorted[1])
-            sorted_.append(left_sorted[0])
-
-    elif length &amp;gt;= 4:
-        left_sorted = merge_sort(unsorted[:length//2])
-        right_sorted = merge_sort(unsorted[length//2:])
-
-        l, r = 0, 0
-        for i in range(length):
-            if l == len(left_sorted):
-                sorted_.append(right_sorted[r])
-                r += 1
-            elif r == len(right_sorted):
-                sorted_.append(left_sorted[l])
-                l += 1
-            elif left_sorted[l] &amp;lt; right_sorted[r]:
-                sorted_.append(left_sorted[l])
-                l += 1
-            else:
-                sorted_.append(right_sorted[r])
-                r += 1
-    return sorted_
-
-
-
-def test_one_num():
-    assert merge_sort([1]) == [1]
-
-def test_two_nums():
-    assert merge_sort([1, 2]) == [1, 2]
-    assert merge_sort([2, 1]) == [1, 2]
-    assert merge_sort([4, 3]) == [3, 4]
-
-def test_three_nums():
-    assert merge_sort([1, 2, 3]) == [1, 2, 3]
-    assert merge_sort([1, 3, 2]) == [1, 2, 3]
-    assert merge_sort([2, 1, 3]) == [1, 2, 3]
-    assert merge_sort([2, 3, 1]) == [1, 2, 3]
-    assert merge_sort([3, 1, 2]) == [1, 2, 3]
-    assert merge_sort([3, 2, 1]) == [1, 2, 3]
-
-
-def test_any_nums():
-    assert merge_sort([5, 4, 3, 2, 1]) == [1, 2, 3, 4, 5]
-    assert merge_sort([99, 34, 3, -19, -8, 7, 45]) == [-19, -8, 3, 7, 34, 45, 99]
-
-&lt;/pre&gt;
-&lt;/noscript&gt;&lt;/div&gt;</description><guid>http://www.datamofa.club/posts/my-first-pytest-experience/</guid><pubDate>Thu, 19 Jan 2017 01:52:13 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>2017Q1</category><category>courses</category><guid>https://www.datamofa.club/posts/selected-self-paced-online-courses-to-study-2017-q1/</guid><pubDate>Mon, 30 Jan 2017 02:53:54 GMT</pubDate></item></channel></rss>

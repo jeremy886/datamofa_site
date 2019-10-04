@@ -1,4 +1,4 @@
-Sitemap: http://www.datamofa.club/sitemapindex.xml
+Sitemap: https://www.datamofa.club/sitemapindex.xml
 
 User-Agent: *
 Host: www.datamofa.club
